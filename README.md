@@ -400,7 +400,7 @@ A: Our system maintains <7% false positive rate with 93%+ precision.
 
 ## 👥 Contributors
 
-- **Made** - Project Developer & ML Engineer
+- **Madhunica** - Project Developer
 
 ## 📄 License
 
@@ -416,9 +416,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact & Support
 
 For questions, issues, or contributions:
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/ids-dos-ddos-detection/issues)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub Issues**: [Create an issue](https://github.com/madhunicabala/MLBasedIDS/issues)
+- **Email**: madhunicabala.92@gmail.com
+- **LinkedIn**: [madhunicabala]
 
 ## 🎯 Project Status
 
@@ -436,7 +436,7 @@ For questions, issues, or contributions:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ids-dos-ddos-detection.git
+git clone https://github.com/madhunicabala/<<repo_name>>
 
 # Install dependencies
 pip install -r requirements.txt
@@ -444,7 +444,7 @@ pip install -r requirements.txt
 # Run application
 streamlit run IDS_UI_2_0.py
 
-# Access at: http://localhost:8501
+# Access using cloudflare URL
 ```
 
 ## Project Structure
